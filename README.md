@@ -1,3 +1,6 @@
+if you're interested for endfield join dc: https://discord.gg/FV4ArH4BQa
+
+
 # Alya-Arknights
 Features:
 > Player <br>
@@ -8,3 +11,5 @@ Features:
 * Global Speed
 
 # WIP
+
+
