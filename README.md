@@ -8,7 +8,10 @@ Features:
 * God Mode
 * Stats Modifier
 > World <br>
+* Instant Win
 * Global Speed
+> Visuals <br>
+* Unlock Skins
 
 # WIP
 
