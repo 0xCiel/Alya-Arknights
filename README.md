@@ -6,6 +6,7 @@ Features:
 > Player <br>
 * Damage Multiplier
 * God Mode
+* Infinite Cost
 * Stats Modifier
 > World <br>
 * Instant Win
