@@ -13,6 +13,7 @@ Features:
 > World <br>
 * Instant Win
 * Global Speed
+* Kill Aura
 * Dumb Enemy
 * Skip Dialogues
 > Visuals <br>
