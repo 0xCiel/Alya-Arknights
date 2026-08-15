@@ -8,6 +8,8 @@ Features:
 * God Mode
 * Infinite Cost
 * Stats Modifier
+* Infinite SP
+* No Skill Cooldown
 > World <br>
 * Instant Win
 * Global Speed
