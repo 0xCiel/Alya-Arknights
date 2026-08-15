@@ -11,6 +11,8 @@ Features:
 > World <br>
 * Instant Win
 * Global Speed
+* Dumb Enemy
+* Skip Dialogues
 > Visuals <br>
 * Unlock Skins
 
