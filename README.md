@@ -7,15 +7,17 @@ Features:
 * Damage Multiplier
 * God Mode
 * Infinite Cost
-* Stats Modifier
+* Stats Modifier (Player, Enemy)
 * Infinite SP
 * No Skill Cooldown
+* Infinite Attack Range
 > World <br>
 * Instant Win
 * Global Speed
 * Kill Aura
 * Dumb Enemy
 * Skip Dialogues
+* Protection Objective Godmode
 > Visuals <br>
 * Unlock Skins
 
